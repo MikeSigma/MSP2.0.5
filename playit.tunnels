@@ -82,7 +82,7 @@
           "agent_id": "1796bd22-5ac0-4315-afac-210fc5ae3291",
           "agent_name": "IpFija",
           "local_ip": "127.0.0.1",
-          "local_port": 2397
+          "local_port": 2379
         },
         "type": "agent"
       },
